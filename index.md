@@ -1,17 +1,16 @@
-# Welcome to TESS
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Pages Site</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub Pages Site</h1>
+    
+    <h2>Categories:</h2>
+    <ul>
+        <li><a href="category1.html">Category 1</a></li>
+        <li><a href="category2.html">Category 2</a></li>
+        <li><a href="category3.html">Category 3</a></li>
+    </ul>
+</body>
+</html>
